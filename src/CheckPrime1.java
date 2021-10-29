@@ -1,5 +1,5 @@
 
-public class CheckPrime {
+public class CheckPrime1 {
 
 	public static void main(String[] args) {
 
