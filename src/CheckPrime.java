@@ -3,7 +3,7 @@ public class CheckPrime {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello Prime");
+		System.out.println("Hello Prime Change");
 	}
 
 }
